@@ -1,4 +1,4 @@
-# JavaScriptTestProject
+# javascript-test-project
 JavaScript test project
 
 ## Help
